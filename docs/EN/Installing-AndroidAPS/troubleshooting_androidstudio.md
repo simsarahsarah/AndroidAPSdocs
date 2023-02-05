@@ -21,7 +21,7 @@ In case you cannot find your old keystore or its password anymore, proceed as fo
 8. Keep on looping.
 
 ## Gradle Sync failed
-Gradle Sync can fail to various reasons. Wen you get a message saying that gradle sync failed, open the "Build" tab (1) at the bottom of Android Studio and check what error message (2) is displayed.
+Gradle Sync can fail for various reasons. When you get a message saying that gradle sync failed, open the "Build" tab (1) at the bottom of Android Studio and check what error message (2) is displayed.
 
   ![Gradle Failed](../images/studioTroubleshooting/07_GradleSyncFailed2.png)
 
